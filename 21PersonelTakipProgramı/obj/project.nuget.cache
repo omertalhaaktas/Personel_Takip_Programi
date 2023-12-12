@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYdlgjTrop3WgicIROeOezWegZNAyqDMrx0wi0FS8bCVetFrltxF+lDFBtSXGnu1xah+mO76fdYv8VILTqZjfw==",
+  "success": true,
+  "projectFilePath": "D:\\PROJELER\\Form Videoları\\21PersonelTakipProgramı\\21PersonelTakipProgramı.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omer_\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0-rc.2.23479.6\\system.configuration.configurationmanager.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\omer_\\.nuget\\packages\\system.data.oledb\\8.0.0-rc.2.23479.6\\system.data.oledb.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\omer_\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0-rc.2.23479.6\\system.diagnostics.performancecounter.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\omer_\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0-rc.2.23479.6\\system.security.cryptography.protecteddata.8.0.0-rc.2.23479.6.nupkg.sha512"
+  ],
+  "logs": []
+}

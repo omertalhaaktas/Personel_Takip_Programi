@@ -1,0 +1,99 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "System.Configuration.ConfigurationManager/8.0.0-rc.2.23479.6": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "8.0.0-rc.2.23479.6"
+        },
+        "runtime": {
+          "lib/net6.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        }
+      },
+      "System.Data.OleDb/8.0.0-rc.2.23479.6": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "8.0.0-rc.2.23479.6",
+          "System.Diagnostics.PerformanceCounter": "8.0.0-rc.2.23479.6"
+        },
+        "runtime": {
+          "lib/net6.0/System.Data.OleDb.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Data.OleDb.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        }
+      },
+      "System.Diagnostics.PerformanceCounter/8.0.0-rc.2.23479.6": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "8.0.0-rc.2.23479.6"
+        },
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.PerformanceCounter.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Diagnostics.PerformanceCounter.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/8.0.0-rc.2.23479.6": {
+        "runtime": {
+          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Configuration.ConfigurationManager/8.0.0-rc.2.23479.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xrca21E/7vnHe45MvfcS4J2sj0vzTUsnQxO2dhe2Ex49RZ5qfeZF9bTDp7es+zTp6YZA2xUJLbrFySbrpHqW4Q==",
+      "path": "system.configuration.configurationmanager/8.0.0-rc.2.23479.6",
+      "hashPath": "system.configuration.configurationmanager.8.0.0-rc.2.23479.6.nupkg.sha512"
+    },
+    "System.Data.OleDb/8.0.0-rc.2.23479.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-utof1L+9akiSjykmrEyfDCnafVgZJNEMdOzw2B4CpuO2ljdth6V0ZOamwHzB8MQG2D6Itk48GTxtIHrS0dVVsA==",
+      "path": "system.data.oledb/8.0.0-rc.2.23479.6",
+      "hashPath": "system.data.oledb.8.0.0-rc.2.23479.6.nupkg.sha512"
+    },
+    "System.Diagnostics.PerformanceCounter/8.0.0-rc.2.23479.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B2jwLXVR35ZeCbQYrboI1lOIYHvASsllOJtzyFrHiQquX2VNQhi0SNrlzovJa8Gu9IxX4/YCaJB1KSfee9/L1g==",
+      "path": "system.diagnostics.performancecounter/8.0.0-rc.2.23479.6",
+      "hashPath": "system.diagnostics.performancecounter.8.0.0-rc.2.23479.6.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/8.0.0-rc.2.23479.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PhyL+Qv4bYnWlh/AxIdye89bBxwsyJdGXEFugJgICTQaVbq39p9q1Bal5a+HF14goo2vICFxwEEyb0Gr0jln/w==",
+      "path": "system.security.cryptography.protecteddata/8.0.0-rc.2.23479.6",
+      "hashPath": "system.security.cryptography.protecteddata.8.0.0-rc.2.23479.6.nupkg.sha512"
+    }
+  }
+}
